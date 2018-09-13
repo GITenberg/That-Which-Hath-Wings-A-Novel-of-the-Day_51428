@@ -1,5 +1,8 @@
 _repo: That-Which-Hath-Wings-A-Novel-of-the-Day_51428
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51428-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Dehan, Richard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33039
     wikipedia: http://en.wikipedia.org/wiki/Clotilde_Graves
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51428#That-Which-Hath-Wings-A-Novel-of-the-Day
 gutenberg_issued: '2016-03-12'
 gutenberg_type: Text
 identifiers:
