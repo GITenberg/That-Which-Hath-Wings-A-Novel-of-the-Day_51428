@@ -1,0 +1,26 @@
+_repo: That-Which-Hath-Wings-A-Novel-of-the-Day_51428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dehan, Richard
+    alias: Graves, Clotilde Inez Mary
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '33039'
+    url: http://www.gutenberg.org/2009/agents/33039
+    wikipedia: http://en.wikipedia.org/wiki/Clotilde_Graves
+description: ''
+gutenberg_issued: '2016-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'That Which Hath Wings: A Novel of the Day'
+url: http://www.gutenberg.org/ebooks/51428
